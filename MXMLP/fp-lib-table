@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
+  (lib (name MXMountLP)(type KiCad)(uri ${KIPRJMOD}/MXMountLP.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
+)

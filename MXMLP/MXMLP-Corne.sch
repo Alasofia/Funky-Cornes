@@ -1,0 +1,1484 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title "Corne Cherry"
+Date "2020-09-28"
+Rev "3.0.1"
+Comp "foostan"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:D D2
+U 1 1 5A5E26C6
+P 4800 1400
+F 0 "D2" H 4800 1500 50  0000 C CNN
+F 1 "D" H 4800 1300 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 4800 1400 50  0001 C CNN
+F 3 "" H 4800 1400 50  0001 C CNN
+	1    4800 1400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5A5E281F
+P 5500 1400
+F 0 "D3" H 5500 1500 50  0000 C CNN
+F 1 "D" H 5500 1300 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 5500 1400 50  0001 C CNN
+F 3 "" H 5500 1400 50  0001 C CNN
+	1    5500 1400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5A5E29BF
+P 6200 1400
+F 0 "D4" H 6200 1500 50  0000 C CNN
+F 1 "D" H 6200 1300 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 6200 1400 50  0001 C CNN
+F 3 "" H 6200 1400 50  0001 C CNN
+	1    6200 1400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5A5E29F2
+P 6900 1400
+F 0 "D5" H 6900 1500 50  0000 C CNN
+F 1 "D" H 6900 1300 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 6900 1400 50  0001 C CNN
+F 3 "" H 6900 1400 50  0001 C CNN
+	1    6900 1400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5A5E2A33
+P 7600 1400
+F 0 "D6" H 7600 1500 50  0000 C CNN
+F 1 "D" H 7600 1300 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 7600 1400 50  0001 C CNN
+F 3 "" H 7600 1400 50  0001 C CNN
+	1    7600 1400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5A5E2D2C
+P 4800 2000
+F 0 "D8" H 4800 2100 50  0000 C CNN
+F 1 "D" H 4800 1900 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 4800 2000 50  0001 C CNN
+F 3 "" H 4800 2000 50  0001 C CNN
+	1    4800 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5A5E2D38
+P 5500 2000
+F 0 "D9" H 5500 2100 50  0000 C CNN
+F 1 "D" H 5500 1900 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 5500 2000 50  0001 C CNN
+F 3 "" H 5500 2000 50  0001 C CNN
+	1    5500 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5A5E2D56
+P 6200 2000
+F 0 "D10" H 6200 2100 50  0000 C CNN
+F 1 "D" H 6200 1900 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 6200 2000 50  0001 C CNN
+F 3 "" H 6200 2000 50  0001 C CNN
+	1    6200 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5A5E2D5C
+P 6900 2000
+F 0 "D11" H 6900 2100 50  0000 C CNN
+F 1 "D" H 6900 1900 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 6900 2000 50  0001 C CNN
+F 3 "" H 6900 2000 50  0001 C CNN
+	1    6900 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5A5E2D62
+P 7600 2000
+F 0 "D12" H 7600 2100 50  0000 C CNN
+F 1 "D" H 7600 1900 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 7600 2000 50  0001 C CNN
+F 3 "" H 7600 2000 50  0001 C CNN
+	1    7600 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5A5E2D74
+P 4150 2000
+F 0 "D7" H 4150 2100 50  0000 C CNN
+F 1 "D" H 4150 1900 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 4150 2000 50  0001 C CNN
+F 3 "" H 4150 2000 50  0001 C CNN
+	1    4150 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5A5E35B7
+P 4800 2600
+F 0 "D14" H 4800 2700 50  0000 C CNN
+F 1 "D" H 4800 2500 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 4800 2600 50  0001 C CNN
+F 3 "" H 4800 2600 50  0001 C CNN
+	1    4800 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 5A5E35C3
+P 5500 2600
+F 0 "D15" H 5500 2700 50  0000 C CNN
+F 1 "D" H 5500 2500 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 5500 2600 50  0001 C CNN
+F 3 "" H 5500 2600 50  0001 C CNN
+	1    5500 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 5A5E35E1
+P 6200 2600
+F 0 "D16" H 6200 2700 50  0000 C CNN
+F 1 "D" H 6200 2500 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 6200 2600 50  0001 C CNN
+F 3 "" H 6200 2600 50  0001 C CNN
+	1    6200 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 5A5E35E7
+P 6900 2600
+F 0 "D17" H 6900 2700 50  0000 C CNN
+F 1 "D" H 6900 2500 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 6900 2600 50  0001 C CNN
+F 3 "" H 6900 2600 50  0001 C CNN
+	1    6900 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 5A5E35ED
+P 7600 2600
+F 0 "D18" H 7600 2700 50  0000 C CNN
+F 1 "D" H 7600 2500 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 7600 2600 50  0001 C CNN
+F 3 "" H 7600 2600 50  0001 C CNN
+	1    7600 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5A5E35FF
+P 4150 2600
+F 0 "D13" H 4150 2700 50  0000 C CNN
+F 1 "D" H 4150 2500 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 4150 2600 50  0001 C CNN
+F 3 "" H 4150 2600 50  0001 C CNN
+	1    4150 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 5A5E37AA
+P 6900 3200
+F 0 "D20" H 6900 3300 50  0000 C CNN
+F 1 "D" H 6900 3100 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 6900 3200 50  0001 C CNN
+F 3 "" H 6900 3200 50  0001 C CNN
+	1    6900 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D21
+U 1 1 5A5E37B6
+P 7600 3200
+F 0 "D21" H 7600 3300 50  0000 C CNN
+F 1 "D" H 7600 3100 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 7600 3200 50  0001 C CNN
+F 3 "" H 7600 3200 50  0001 C CNN
+	1    7600 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 5A5E37F2
+P 6200 3200
+F 0 "D19" H 6200 3300 50  0000 C CNN
+F 1 "D" H 6200 3100 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 6200 3200 50  0001 C CNN
+F 3 "" H 6200 3200 50  0001 C CNN
+	1    6200 3200
+	0    -1   -1   0   
+$EndComp
+Text GLabel 4400 1150 1    60   Input ~ 0
+col1
+Text GLabel 3750 1125 1    60   Input ~ 0
+col0
+Text GLabel 5100 1150 1    60   Input ~ 0
+col2
+Text GLabel 5800 1150 1    60   Input ~ 0
+col3
+Text GLabel 6500 1150 1    60   Input ~ 0
+col4
+Text GLabel 7200 1150 1    60   Input ~ 0
+col5
+Text GLabel 4150 1550 0    60   Input ~ 0
+row0
+Text GLabel 4050 2150 0    60   Input ~ 0
+row1
+Text GLabel 4050 2750 0    60   Input ~ 0
+row2
+Text GLabel 6050 3350 0    60   Input ~ 0
+row3
+$Comp
+L power:GND #PWR04
+U 1 1 5A5E8E4C
+P 1150 1450
+F 0 "#PWR04" H 1150 1200 50  0001 C CNN
+F 1 "GND" H 1150 1300 50  0000 C CNN
+F 2 "" H 1150 1450 50  0001 C CNN
+F 3 "" H 1150 1450 50  0001 C CNN
+	1    1150 1450
+	0    1    1    0   
+$EndComp
+Text GLabel 1300 2100 0    47   Input ~ 0
+row3
+Text GLabel 1300 2000 0    47   Input ~ 0
+row2
+Text GLabel 1300 1900 0    47   Input ~ 0
+row1
+Text GLabel 1300 1800 0    47   Input ~ 0
+row0
+Text GLabel 1300 1200 0    47   Input ~ 0
+LED
+Text GLabel 1300 1300 0    47   Input ~ 0
+data
+NoConn ~ 2700 2300
+NoConn ~ 1300 2300
+NoConn ~ 1300 2200
+Text GLabel 1300 1600 0    47   Input ~ 0
+SDA
+Text GLabel 1300 1700 0    47   Input ~ 0
+SCL
+$Comp
+L power:GNDA #PWR01
+U 1 1 5C25F963
+P 10850 1250
+F 0 "#PWR01" H 10850 1000 50  0001 C CNN
+F 1 "GNDA" H 10850 1100 50  0000 C CNN
+F 2 "" H 10850 1250 50  0001 C CNN
+F 3 "" H 10850 1250 50  0001 C CNN
+	1    10850 1250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDA #PWR03
+U 1 1 5C25F969
+P 9250 1400
+F 0 "#PWR03" H 9250 1150 50  0001 C CNN
+F 1 "GNDA" H 9250 1250 50  0000 C CNN
+F 2 "" H 9250 1400 50  0001 C CNN
+F 3 "" H 9250 1400 50  0001 C CNN
+	1    9250 1400
+	0    1    1    0   
+$EndComp
+Text GLabel 10850 1650 2    47   Input ~ 0
+col1_r
+Text GLabel 10850 1750 2    47   Input ~ 0
+col2_r
+Text GLabel 10850 1850 2    47   Input ~ 0
+col3_r
+Text GLabel 10850 1950 2    47   Input ~ 0
+col4_r
+Text GLabel 10850 2050 2    47   Input ~ 0
+col5_r
+Text GLabel 9450 2050 0    47   Input ~ 0
+row3_r
+Text GLabel 9450 1950 0    47   Input ~ 0
+row2_r
+Text GLabel 9450 1850 0    47   Input ~ 0
+row1_r
+Text GLabel 9450 1750 0    47   Input ~ 0
+row0_r
+Text GLabel 9450 1150 0    47   Input ~ 0
+LED_r
+Text GLabel 9450 1250 0    47   Input ~ 0
+data_r
+Text GLabel 10850 1350 2    47   Input ~ 0
+reset_r
+NoConn ~ 10850 2150
+NoConn ~ 9450 2250
+Text GLabel 10850 1550 2    47   Input ~ 0
+col0_r
+NoConn ~ 10850 2250
+NoConn ~ 9450 2150
+Text GLabel 9450 1550 0    47   Input ~ 0
+SDA_r
+Text GLabel 9450 1650 0    47   Input ~ 0
+SCL_r
+NoConn ~ 10850 1150
+$Comp
+L power:VDD #PWR05
+U 1 1 5C714C7F
+P 10850 1450
+F 0 "#PWR05" H 10850 1300 50  0001 C CNN
+F 1 "VDD" V 10867 1578 50  0000 L CNN
+F 2 "" H 10850 1450 50  0001 C CNN
+F 3 "" H 10850 1450 50  0001 C CNN
+	1    10850 1450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3750 1125 3750 1250
+$Comp
+L Switch:SW_Push SW1
+U 1 1 612F928D
+P 3950 1250
+F 0 "SW1" H 3950 1535 50  0000 C CNN
+F 1 "SW_Push" H 3950 1444 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 3950 1450 50  0001 C CNN
+F 3 "~" H 3950 1450 50  0001 C CNN
+	1    3950 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5A5E2B5B
+P 4150 1400
+F 0 "D1" H 4150 1500 50  0000 C CNN
+F 1 "D" H 4150 1300 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 4150 1400 50  0001 C CNN
+F 3 "" H 4150 1400 50  0001 C CNN
+	1    4150 1400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 6131EBA7
+P 4600 1250
+F 0 "SW2" H 4600 1535 50  0000 C CNN
+F 1 "SW_Push" H 4600 1444 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 4600 1450 50  0001 C CNN
+F 3 "~" H 4600 1450 50  0001 C CNN
+	1    4600 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 61324A8D
+P 5300 1250
+F 0 "SW3" H 5300 1535 50  0000 C CNN
+F 1 "SW_Push" H 5300 1444 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 5300 1450 50  0001 C CNN
+F 3 "~" H 5300 1450 50  0001 C CNN
+	1    5300 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 61325365
+P 6000 1250
+F 0 "SW4" H 6000 1535 50  0000 C CNN
+F 1 "SW_Push" H 6000 1444 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 6000 1450 50  0001 C CNN
+F 3 "~" H 6000 1450 50  0001 C CNN
+	1    6000 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 61325ADC
+P 6700 1250
+F 0 "SW5" H 6700 1535 50  0000 C CNN
+F 1 "SW_Push" H 6700 1444 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 6700 1450 50  0001 C CNN
+F 3 "~" H 6700 1450 50  0001 C CNN
+	1    6700 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 613263EA
+P 7400 1250
+F 0 "SW6" H 7400 1535 50  0000 C CNN
+F 1 "SW_Push" H 7400 1444 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 7400 1450 50  0001 C CNN
+F 3 "~" H 7400 1450 50  0001 C CNN
+	1    7400 1250
+	1    0    0    -1  
+$EndComp
+Connection ~ 3750 1250
+Wire Wire Line
+	3750 1250 3750 1850
+Wire Wire Line
+	4150 1550 4800 1550
+Connection ~ 4800 1550
+Wire Wire Line
+	4800 1550 5500 1550
+Connection ~ 5500 1550
+Wire Wire Line
+	5500 1550 6200 1550
+Connection ~ 6200 1550
+Wire Wire Line
+	6200 1550 6900 1550
+Connection ~ 6900 1550
+Wire Wire Line
+	6900 1550 7600 1550
+Wire Wire Line
+	4050 2150 4150 2150
+Connection ~ 4150 2150
+Wire Wire Line
+	4150 2150 4800 2150
+$Comp
+L Switch:SW_Push SW7
+U 1 1 61368872
+P 3950 1850
+F 0 "SW7" H 3950 2135 50  0000 C CNN
+F 1 "SW_Push" H 3950 2044 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 3950 2050 50  0001 C CNN
+F 3 "~" H 3950 2050 50  0001 C CNN
+	1    3950 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 613690FB
+P 4600 1850
+F 0 "SW8" H 4600 2135 50  0000 C CNN
+F 1 "SW_Push" H 4600 2044 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 4600 2050 50  0001 C CNN
+F 3 "~" H 4600 2050 50  0001 C CNN
+	1    4600 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 61369B03
+P 5300 1850
+F 0 "SW9" H 5300 2135 50  0000 C CNN
+F 1 "SW_Push" H 5300 2044 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 5300 2050 50  0001 C CNN
+F 3 "~" H 5300 2050 50  0001 C CNN
+	1    5300 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 6136A6A4
+P 6000 1850
+F 0 "SW10" H 6000 2135 50  0000 C CNN
+F 1 "SW_Push" H 6000 2044 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 6000 2050 50  0001 C CNN
+F 3 "~" H 6000 2050 50  0001 C CNN
+	1    6000 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 6136B185
+P 6700 1850
+F 0 "SW11" H 6700 2135 50  0000 C CNN
+F 1 "SW_Push" H 6700 2044 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 6700 2050 50  0001 C CNN
+F 3 "~" H 6700 2050 50  0001 C CNN
+	1    6700 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 6136ED76
+P 7400 1850
+F 0 "SW12" H 7400 2135 50  0000 C CNN
+F 1 "SW_Push" H 7400 2044 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 7400 2050 50  0001 C CNN
+F 3 "~" H 7400 2050 50  0001 C CNN
+	1    7400 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 61385CAC
+P 3950 2450
+F 0 "SW13" H 3950 2735 50  0000 C CNN
+F 1 "SW_Push" H 3950 2644 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 3950 2650 50  0001 C CNN
+F 3 "~" H 3950 2650 50  0001 C CNN
+	1    3950 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 1850 3750 2450
+Connection ~ 3750 1850
+$Comp
+L Switch:SW_Push SW14
+U 1 1 61389358
+P 4600 2450
+F 0 "SW14" H 4600 2735 50  0000 C CNN
+F 1 "SW_Push" H 4600 2644 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 4600 2650 50  0001 C CNN
+F 3 "~" H 4600 2650 50  0001 C CNN
+	1    4600 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 61389C29
+P 5300 2450
+F 0 "SW15" H 5300 2735 50  0000 C CNN
+F 1 "SW_Push" H 5300 2644 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 5300 2650 50  0001 C CNN
+F 3 "~" H 5300 2650 50  0001 C CNN
+	1    5300 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 6138A691
+P 6000 2450
+F 0 "SW16" H 6000 2735 50  0000 C CNN
+F 1 "SW_Push" H 6000 2644 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 6000 2650 50  0001 C CNN
+F 3 "~" H 6000 2650 50  0001 C CNN
+	1    6000 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW17
+U 1 1 6138B02C
+P 6700 2450
+F 0 "SW17" H 6700 2735 50  0000 C CNN
+F 1 "SW_Push" H 6700 2644 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 6700 2650 50  0001 C CNN
+F 3 "~" H 6700 2650 50  0001 C CNN
+	1    6700 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW18
+U 1 1 6138CCAC
+P 7400 2450
+F 0 "SW18" H 7400 2735 50  0000 C CNN
+F 1 "SW_Push" H 7400 2644 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 7400 2650 50  0001 C CNN
+F 3 "~" H 7400 2650 50  0001 C CNN
+	1    7400 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW21
+U 1 1 6138D8B5
+P 7400 3050
+F 0 "SW21" H 7400 3335 50  0000 C CNN
+F 1 "SW_Push" H 7400 3244 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 7400 3250 50  0001 C CNN
+F 3 "~" H 7400 3250 50  0001 C CNN
+	1    7400 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW20
+U 1 1 6139205A
+P 6700 3050
+F 0 "SW20" H 6700 3335 50  0000 C CNN
+F 1 "SW_Push" H 6700 3244 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 6700 3250 50  0001 C CNN
+F 3 "~" H 6700 3250 50  0001 C CNN
+	1    6700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 61392490
+P 6000 3050
+F 0 "SW19" H 6000 3335 50  0000 C CNN
+F 1 "SW_Push" H 6000 3244 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 6000 3250 50  0001 C CNN
+F 3 "~" H 6000 3250 50  0001 C CNN
+	1    6000 3050
+	1    0    0    -1  
+$EndComp
+Connection ~ 6200 2150
+Wire Wire Line
+	6200 2150 6900 2150
+Wire Wire Line
+	6200 3350 6050 3350
+Connection ~ 6200 3350
+Connection ~ 4800 2150
+Wire Wire Line
+	4800 2150 5500 2150
+Wire Wire Line
+	4400 1150 4400 1250
+Connection ~ 4400 1250
+Wire Wire Line
+	4400 1250 4400 1850
+Connection ~ 4400 1850
+Wire Wire Line
+	4400 1850 4400 2450
+Wire Wire Line
+	4050 2750 4150 2750
+Connection ~ 4150 2750
+Wire Wire Line
+	4150 2750 4800 2750
+Connection ~ 4800 2750
+Wire Wire Line
+	4800 2750 5500 2750
+Connection ~ 6200 2750
+Wire Wire Line
+	6200 2750 6900 2750
+Connection ~ 5500 2150
+Wire Wire Line
+	5500 2150 6200 2150
+Connection ~ 5500 2750
+Wire Wire Line
+	5500 2750 6200 2750
+Wire Wire Line
+	5100 2450 5100 1850
+Connection ~ 5100 1250
+Wire Wire Line
+	5100 1250 5100 1150
+Connection ~ 5100 1850
+Wire Wire Line
+	5100 1850 5100 1250
+Wire Wire Line
+	5800 1150 5800 1250
+Connection ~ 5800 1250
+Wire Wire Line
+	5800 1250 5800 1850
+Connection ~ 5800 1850
+Wire Wire Line
+	5800 1850 5800 2450
+Connection ~ 5800 2450
+Connection ~ 6900 2150
+Wire Wire Line
+	6900 2150 7600 2150
+Connection ~ 6900 2750
+Wire Wire Line
+	6900 2750 7600 2750
+Connection ~ 6900 3350
+Wire Wire Line
+	6900 3350 6200 3350
+Wire Wire Line
+	6900 3350 7600 3350
+$Comp
+L promicro:ProMicro U1
+U 1 1 614D0D57
+P 10150 1900
+F 0 "U1" H 10150 2937 60  0000 C CNN
+F 1 "ProMicro" H 10150 2831 60  0000 C CNN
+F 2 "promicro:ProMicro" H 10250 850 60  0001 C CNN
+F 3 "" H 10250 850 60  0000 C CNN
+	1    10150 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9450 1350 9250 1350
+Wire Wire Line
+	9250 1350 9250 1400
+Wire Wire Line
+	9250 1400 9250 1450
+Wire Wire Line
+	9250 1450 9450 1450
+Connection ~ 9250 1400
+$Comp
+L promicro:ProMicro U2
+U 1 1 615B8C5C
+P 2000 1950
+F 0 "U2" H 2000 2987 60  0000 C CNN
+F 1 "ProMicro" H 2000 2881 60  0000 C CNN
+F 2 "promicro:ProMicro" H 2100 900 60  0001 C CNN
+F 3 "" H 2100 900 60  0000 C CNN
+	1    2000 1950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 1500 1150 1500
+Wire Wire Line
+	1150 1500 1150 1450
+Wire Wire Line
+	1300 1400 1150 1400
+Wire Wire Line
+	1150 1400 1150 1450
+Connection ~ 1150 1450
+NoConn ~ 2700 1200
+$Comp
+L power:VCC #PWR06
+U 1 1 5A5E8CD1
+P 2700 1500
+F 0 "#PWR06" H 2700 1350 50  0001 C CNN
+F 1 "VCC" H 2700 1650 50  0000 C CNN
+F 2 "" H 2700 1500 50  0001 C CNN
+F 3 "" H 2700 1500 50  0001 C CNN
+	1    2700 1500
+	0    1    1    0   
+$EndComp
+NoConn ~ 2700 2200
+Text GLabel 2700 1600 2    47   Input ~ 0
+col0
+Text GLabel 2700 1400 2    47   Input ~ 0
+reset
+Text GLabel 2700 2100 2    47   Input ~ 0
+col5
+Text GLabel 2700 2000 2    47   Input ~ 0
+col4
+Text GLabel 2700 1900 2    47   Input ~ 0
+col3
+Text GLabel 2700 1800 2    47   Input ~ 0
+col2
+Text GLabel 2700 1700 2    47   Input ~ 0
+col1
+$Comp
+L power:GND #PWR02
+U 1 1 5A5E8A2C
+P 2700 1300
+F 0 "#PWR02" H 2700 1050 50  0001 C CNN
+F 1 "GND" H 2700 1150 50  0000 C CNN
+F 2 "" H 2700 1300 50  0001 C CNN
+F 3 "" H 2700 1300 50  0001 C CNN
+	1    2700 1300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7200 1150 7200 1250
+Connection ~ 7200 1250
+Wire Wire Line
+	7200 1250 7200 1850
+Connection ~ 7600 3350
+Wire Wire Line
+	7600 3350 7650 3350
+Connection ~ 7200 2450
+Wire Wire Line
+	7200 2450 7200 3050
+Connection ~ 7600 2750
+Wire Wire Line
+	7600 2750 7650 2750
+Connection ~ 7200 1850
+Wire Wire Line
+	7200 1850 7200 2450
+Connection ~ 7600 2150
+Wire Wire Line
+	7600 2150 7650 2150
+Wire Wire Line
+	6500 1150 6500 1250
+Connection ~ 6500 1250
+Wire Wire Line
+	6500 1250 6500 1850
+Connection ~ 6500 1850
+Wire Wire Line
+	6500 1850 6500 2450
+Connection ~ 6500 2450
+Wire Wire Line
+	6500 2450 6500 3050
+Wire Wire Line
+	5800 2450 5800 3050
+$Comp
+L Device:D D23
+U 1 1 617D5D4A
+P 12850 1550
+F 0 "D23" H 12850 1650 50  0000 C CNN
+F 1 "D" H 12850 1450 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 12850 1550 50  0001 C CNN
+F 3 "" H 12850 1550 50  0001 C CNN
+	1    12850 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D24
+U 1 1 617D5D50
+P 13550 1550
+F 0 "D24" H 13550 1650 50  0000 C CNN
+F 1 "D" H 13550 1450 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 13550 1550 50  0001 C CNN
+F 3 "" H 13550 1550 50  0001 C CNN
+	1    13550 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D25
+U 1 1 617D5D56
+P 14250 1550
+F 0 "D25" H 14250 1650 50  0000 C CNN
+F 1 "D" H 14250 1450 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 14250 1550 50  0001 C CNN
+F 3 "" H 14250 1550 50  0001 C CNN
+	1    14250 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D26
+U 1 1 617D5D5C
+P 14950 1550
+F 0 "D26" H 14950 1650 50  0000 C CNN
+F 1 "D" H 14950 1450 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 14950 1550 50  0001 C CNN
+F 3 "" H 14950 1550 50  0001 C CNN
+	1    14950 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D27
+U 1 1 617D5D62
+P 15650 1550
+F 0 "D27" H 15650 1650 50  0000 C CNN
+F 1 "D" H 15650 1450 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 15650 1550 50  0001 C CNN
+F 3 "" H 15650 1550 50  0001 C CNN
+	1    15650 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D29
+U 1 1 617D5D68
+P 12850 2150
+F 0 "D29" H 12850 2250 50  0000 C CNN
+F 1 "D" H 12850 2050 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 12850 2150 50  0001 C CNN
+F 3 "" H 12850 2150 50  0001 C CNN
+	1    12850 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D30
+U 1 1 617D5D6E
+P 13550 2150
+F 0 "D30" H 13550 2250 50  0000 C CNN
+F 1 "D" H 13550 2050 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 13550 2150 50  0001 C CNN
+F 3 "" H 13550 2150 50  0001 C CNN
+	1    13550 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D31
+U 1 1 617D5D74
+P 14250 2150
+F 0 "D31" H 14250 2250 50  0000 C CNN
+F 1 "D" H 14250 2050 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 14250 2150 50  0001 C CNN
+F 3 "" H 14250 2150 50  0001 C CNN
+	1    14250 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D32
+U 1 1 617D5D7A
+P 14950 2150
+F 0 "D32" H 14950 2250 50  0000 C CNN
+F 1 "D" H 14950 2050 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 14950 2150 50  0001 C CNN
+F 3 "" H 14950 2150 50  0001 C CNN
+	1    14950 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D33
+U 1 1 617D5D80
+P 15650 2150
+F 0 "D33" H 15650 2250 50  0000 C CNN
+F 1 "D" H 15650 2050 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 15650 2150 50  0001 C CNN
+F 3 "" H 15650 2150 50  0001 C CNN
+	1    15650 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D28
+U 1 1 617D5D86
+P 12150 2150
+F 0 "D28" H 12150 2250 50  0000 C CNN
+F 1 "D" H 12150 2050 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 12150 2150 50  0001 C CNN
+F 3 "" H 12150 2150 50  0001 C CNN
+	1    12150 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D35
+U 1 1 617D5D8C
+P 12850 2750
+F 0 "D35" H 12850 2850 50  0000 C CNN
+F 1 "D" H 12850 2650 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 12850 2750 50  0001 C CNN
+F 3 "" H 12850 2750 50  0001 C CNN
+	1    12850 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D36
+U 1 1 617D5D92
+P 13550 2750
+F 0 "D36" H 13550 2850 50  0000 C CNN
+F 1 "D" H 13550 2650 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 13550 2750 50  0001 C CNN
+F 3 "" H 13550 2750 50  0001 C CNN
+	1    13550 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D37
+U 1 1 617D5D98
+P 14250 2750
+F 0 "D37" H 14250 2850 50  0000 C CNN
+F 1 "D" H 14250 2650 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 14250 2750 50  0001 C CNN
+F 3 "" H 14250 2750 50  0001 C CNN
+	1    14250 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D38
+U 1 1 617D5D9E
+P 14950 2750
+F 0 "D38" H 14950 2850 50  0000 C CNN
+F 1 "D" H 14950 2650 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 14950 2750 50  0001 C CNN
+F 3 "" H 14950 2750 50  0001 C CNN
+	1    14950 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D39
+U 1 1 617D5DA4
+P 15650 2750
+F 0 "D39" H 15650 2850 50  0000 C CNN
+F 1 "D" H 15650 2650 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 15650 2750 50  0001 C CNN
+F 3 "" H 15650 2750 50  0001 C CNN
+	1    15650 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D34
+U 1 1 617D5DAA
+P 12150 2750
+F 0 "D34" H 12150 2850 50  0000 C CNN
+F 1 "D" H 12150 2650 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 12150 2750 50  0001 C CNN
+F 3 "" H 12150 2750 50  0001 C CNN
+	1    12150 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D41
+U 1 1 617D5DB0
+P 14950 3350
+F 0 "D41" H 14950 3450 50  0000 C CNN
+F 1 "D" H 14950 3250 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 14950 3350 50  0001 C CNN
+F 3 "" H 14950 3350 50  0001 C CNN
+	1    14950 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D42
+U 1 1 617D5DB6
+P 15650 3350
+F 0 "D42" H 15650 3450 50  0000 C CNN
+F 1 "D" H 15650 3250 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 15650 3350 50  0001 C CNN
+F 3 "" H 15650 3350 50  0001 C CNN
+	1    15650 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D40
+U 1 1 617D5DBC
+P 14250 3350
+F 0 "D40" H 14250 3450 50  0000 C CNN
+F 1 "D" H 14250 3250 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 14250 3350 50  0001 C CNN
+F 3 "" H 14250 3350 50  0001 C CNN
+	1    14250 3350
+	0    -1   -1   0   
+$EndComp
+Text GLabel 12450 1250 1    60   Input ~ 0
+col1_r
+Text GLabel 11600 1250 1    60   Input ~ 0
+col0_r
+Text GLabel 13150 1250 1    60   Input ~ 0
+col2_r
+Text GLabel 13850 1200 1    60   Input ~ 0
+col3_r
+Text GLabel 14550 1200 1    60   Input ~ 0
+col4_r
+Text GLabel 15250 1250 1    60   Input ~ 0
+col5_r
+Text GLabel 12025 1700 0    60   Input ~ 0
+row0_r
+Text GLabel 12025 2300 0    60   Input ~ 0
+row1_r
+Text GLabel 12025 2900 0    60   Input ~ 0
+row2_r
+Text GLabel 14100 3500 0    60   Input ~ 0
+row3_r
+Wire Wire Line
+	12025 2900 12150 2900
+Wire Wire Line
+	12025 2300 12150 2300
+Wire Wire Line
+	12025 1700 12150 1700
+Wire Wire Line
+	14100 3500 14250 3500
+$Comp
+L Device:D D22
+U 1 1 617D5DD0
+P 12150 1550
+F 0 "D22" H 12150 1650 50  0000 C CNN
+F 1 "D" H 12150 1450 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" H 12150 1550 50  0001 C CNN
+F 3 "" H 12150 1550 50  0001 C CNN
+	1    12150 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW22
+U 1 1 617D5DD6
+P 11950 1400
+F 0 "SW22" H 11950 1685 50  0000 C CNN
+F 1 "SW_Push" H 11950 1594 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 11950 1600 50  0001 C CNN
+F 3 "~" H 11950 1600 50  0001 C CNN
+	1    11950 1400
+	1    0    0    -1  
+$EndComp
+Connection ~ 12150 1700
+Connection ~ 12850 1700
+Connection ~ 13550 1700
+Connection ~ 14250 1700
+Connection ~ 14950 1700
+Connection ~ 15650 1700
+Wire Wire Line
+	15650 1700 15675 1700
+$Comp
+L Switch:SW_Push SW23
+U 1 1 617D5DE3
+P 12650 1400
+F 0 "SW23" H 12650 1685 50  0000 C CNN
+F 1 "SW_Push" H 12650 1594 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 12650 1600 50  0001 C CNN
+F 3 "~" H 12650 1600 50  0001 C CNN
+	1    12650 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW24
+U 1 1 617D5DE9
+P 13350 1400
+F 0 "SW24" H 13350 1685 50  0000 C CNN
+F 1 "SW_Push" H 13350 1594 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 13350 1600 50  0001 C CNN
+F 3 "~" H 13350 1600 50  0001 C CNN
+	1    13350 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW25
+U 1 1 617D5DEF
+P 14050 1400
+F 0 "SW25" H 14050 1685 50  0000 C CNN
+F 1 "SW_Push" H 14050 1594 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 14050 1600 50  0001 C CNN
+F 3 "~" H 14050 1600 50  0001 C CNN
+	1    14050 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW26
+U 1 1 617D5DF5
+P 14750 1400
+F 0 "SW26" H 14750 1685 50  0000 C CNN
+F 1 "SW_Push" H 14750 1594 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 14750 1600 50  0001 C CNN
+F 3 "~" H 14750 1600 50  0001 C CNN
+	1    14750 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW27
+U 1 1 617D5DFB
+P 15450 1400
+F 0 "SW27" H 15450 1685 50  0000 C CNN
+F 1 "SW_Push" H 15450 1594 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 15450 1600 50  0001 C CNN
+F 3 "~" H 15450 1600 50  0001 C CNN
+	1    15450 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW28
+U 1 1 617D5E01
+P 11950 2000
+F 0 "SW28" H 11950 2285 50  0000 C CNN
+F 1 "SW_Push" H 11950 2194 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 11950 2200 50  0001 C CNN
+F 3 "~" H 11950 2200 50  0001 C CNN
+	1    11950 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW29
+U 1 1 617D5E07
+P 12650 2000
+F 0 "SW29" H 12650 2285 50  0000 C CNN
+F 1 "SW_Push" H 12650 2194 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 12650 2200 50  0001 C CNN
+F 3 "~" H 12650 2200 50  0001 C CNN
+	1    12650 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW30
+U 1 1 617D5E0D
+P 13350 2000
+F 0 "SW30" H 13350 2285 50  0000 C CNN
+F 1 "SW_Push" H 13350 2194 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 13350 2200 50  0001 C CNN
+F 3 "~" H 13350 2200 50  0001 C CNN
+	1    13350 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW31
+U 1 1 617D5E13
+P 14050 2000
+F 0 "SW31" H 14050 2285 50  0000 C CNN
+F 1 "SW_Push" H 14050 2194 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 14050 2200 50  0001 C CNN
+F 3 "~" H 14050 2200 50  0001 C CNN
+	1    14050 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW32
+U 1 1 617D5E19
+P 14750 2000
+F 0 "SW32" H 14750 2285 50  0000 C CNN
+F 1 "SW_Push" H 14750 2194 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 14750 2200 50  0001 C CNN
+F 3 "~" H 14750 2200 50  0001 C CNN
+	1    14750 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW33
+U 1 1 617D5E1F
+P 15450 2000
+F 0 "SW33" H 15450 2285 50  0000 C CNN
+F 1 "SW_Push" H 15450 2194 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 15450 2200 50  0001 C CNN
+F 3 "~" H 15450 2200 50  0001 C CNN
+	1    15450 2000
+	1    0    0    -1  
+$EndComp
+Connection ~ 15650 2300
+Wire Wire Line
+	15650 2300 15675 2300
+Connection ~ 14950 2300
+Connection ~ 14250 2300
+Connection ~ 13550 2300
+Connection ~ 12850 2300
+Connection ~ 12150 2300
+Wire Wire Line
+	11600 1250 11600 1400
+Wire Wire Line
+	12150 2300 12850 2300
+Wire Wire Line
+	12850 2300 13550 2300
+Wire Wire Line
+	13550 2300 14250 2300
+Wire Wire Line
+	14250 2300 14950 2300
+Wire Wire Line
+	14950 2300 15650 2300
+Wire Wire Line
+	12850 1700 13550 1700
+Wire Wire Line
+	13550 1700 14250 1700
+Wire Wire Line
+	14250 1700 14950 1700
+Wire Wire Line
+	12150 1700 12850 1700
+Wire Wire Line
+	14950 1700 15650 1700
+Wire Wire Line
+	11750 1400 11600 1400
+Connection ~ 11600 1400
+Wire Wire Line
+	11600 1400 11600 2000
+Wire Wire Line
+	11750 2000 11600 2000
+Connection ~ 11600 2000
+Wire Wire Line
+	11600 2000 11600 2600
+$Comp
+L Switch:SW_Push SW34
+U 1 1 617D5E3D
+P 11950 2600
+F 0 "SW34" H 11950 2885 50  0000 C CNN
+F 1 "SW_Push" H 11950 2794 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 11950 2800 50  0001 C CNN
+F 3 "~" H 11950 2800 50  0001 C CNN
+	1    11950 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW35
+U 1 1 617D5E43
+P 12650 2600
+F 0 "SW35" H 12650 2885 50  0000 C CNN
+F 1 "SW_Push" H 12650 2794 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 12650 2800 50  0001 C CNN
+F 3 "~" H 12650 2800 50  0001 C CNN
+	1    12650 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW36
+U 1 1 617D5E49
+P 13350 2600
+F 0 "SW36" H 13350 2885 50  0000 C CNN
+F 1 "SW_Push" H 13350 2794 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 13350 2800 50  0001 C CNN
+F 3 "~" H 13350 2800 50  0001 C CNN
+	1    13350 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW37
+U 1 1 617D5E4F
+P 14050 2600
+F 0 "SW37" H 14050 2885 50  0000 C CNN
+F 1 "SW_Push" H 14050 2794 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 14050 2800 50  0001 C CNN
+F 3 "~" H 14050 2800 50  0001 C CNN
+	1    14050 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW38
+U 1 1 617D5E55
+P 14750 2600
+F 0 "SW38" H 14750 2885 50  0000 C CNN
+F 1 "SW_Push" H 14750 2794 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 14750 2800 50  0001 C CNN
+F 3 "~" H 14750 2800 50  0001 C CNN
+	1    14750 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW39
+U 1 1 617D5E5B
+P 15450 2600
+F 0 "SW39" H 15450 2885 50  0000 C CNN
+F 1 "SW_Push" H 15450 2794 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 15450 2800 50  0001 C CNN
+F 3 "~" H 15450 2800 50  0001 C CNN
+	1    15450 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW42
+U 1 1 617D5E61
+P 15450 3200
+F 0 "SW42" H 15450 3485 50  0000 C CNN
+F 1 "SW_Push" H 15450 3394 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 15450 3400 50  0001 C CNN
+F 3 "~" H 15450 3400 50  0001 C CNN
+	1    15450 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW41
+U 1 1 617D5E67
+P 14750 3200
+F 0 "SW41" H 14750 3485 50  0000 C CNN
+F 1 "SW_Push" H 14750 3394 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 14750 3400 50  0001 C CNN
+F 3 "~" H 14750 3400 50  0001 C CNN
+	1    14750 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW40
+U 1 1 617D5E6D
+P 14050 3200
+F 0 "SW40" H 14050 3485 50  0000 C CNN
+F 1 "SW_Push" H 14050 3394 50  0000 C CNN
+F 2 "MXMountLP:MXMountLP-1U" H 14050 3400 50  0001 C CNN
+F 3 "~" H 14050 3400 50  0001 C CNN
+	1    14050 3200
+	1    0    0    -1  
+$EndComp
+Connection ~ 15650 2900
+Wire Wire Line
+	15650 2900 15675 2900
+Connection ~ 15650 3500
+Wire Wire Line
+	15650 3500 15675 3500
+Connection ~ 14950 3500
+Connection ~ 14250 3500
+Connection ~ 14250 2900
+Connection ~ 14950 2900
+Connection ~ 13550 2900
+Connection ~ 12850 2900
+Connection ~ 12150 2900
+Wire Wire Line
+	13850 1200 13850 1400
+Wire Wire Line
+	14250 3500 14950 3500
+Wire Wire Line
+	14950 3500 15650 3500
+Wire Wire Line
+	12150 2900 12850 2900
+Wire Wire Line
+	12850 2900 13550 2900
+Wire Wire Line
+	13550 2900 14250 2900
+Wire Wire Line
+	14250 2900 14950 2900
+Wire Wire Line
+	14950 2900 15650 2900
+Connection ~ 13850 1400
+Wire Wire Line
+	13850 1400 13850 2000
+Connection ~ 13850 2000
+Wire Wire Line
+	13850 2000 13850 2600
+Connection ~ 13850 2600
+Wire Wire Line
+	13850 2600 13850 3200
+Wire Wire Line
+	14550 1200 14550 1400
+Connection ~ 14550 1400
+Wire Wire Line
+	14550 1400 14550 2000
+Connection ~ 14550 2000
+Wire Wire Line
+	14550 2000 14550 2600
+Connection ~ 14550 2600
+Wire Wire Line
+	14550 2600 14550 3200
+Wire Wire Line
+	15250 1250 15250 1400
+Connection ~ 15250 1400
+Wire Wire Line
+	15250 1400 15250 2000
+Connection ~ 15250 2000
+Wire Wire Line
+	15250 2000 15250 2600
+Connection ~ 15250 2600
+Wire Wire Line
+	15250 2600 15250 3200
+Wire Wire Line
+	13150 1250 13150 1400
+Connection ~ 13150 1400
+Wire Wire Line
+	13150 1400 13150 2000
+Connection ~ 13150 2000
+Wire Wire Line
+	13150 2000 13150 2600
+Wire Wire Line
+	12450 1250 12450 1400
+Connection ~ 12450 1400
+Wire Wire Line
+	12450 1400 12450 2000
+Connection ~ 12450 2000
+Wire Wire Line
+	12450 2000 12450 2600
+Wire Wire Line
+	11750 2600 11600 2600
+NoConn ~ 10000 3600
+Text GLabel 10000 3300 2    50   Input ~ 0
+data_r
+$Comp
+L Connector:Conn_01x04_Female J2
+U 1 1 612BBF54
+P 9800 3500
+F 0 "J2" H 9692 3075 50  0000 C CNN
+F 1 "Conn_01x04_Female" H 9692 3166 50  0000 C CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A" H 9800 3500 50  0001 C CNN
+F 3 "~" H 9800 3500 50  0001 C CNN
+	1    9800 3500
+	-1   0    0    1   
+$EndComp
+Text GLabel 2000 3650 2    50   Input ~ 0
+data
+$Comp
+L power:GND #PWR0102
+U 1 1 6127E7F7
+P 2000 3750
+F 0 "#PWR0102" H 2000 3500 50  0001 C CNN
+F 1 "GND" V 2005 3622 50  0000 R CNN
+F 2 "" H 2000 3750 50  0001 C CNN
+F 3 "" H 2000 3750 50  0001 C CNN
+	1    2000 3750
+	0    -1   1    0   
+$EndComp
+$Comp
+L power:VCC #PWR0101
+U 1 1 6127E131
+P 2000 3850
+F 0 "#PWR0101" H 2000 3700 50  0001 C CNN
+F 1 "VCC" V 2015 3978 50  0000 L CNN
+F 2 "" H 2000 3850 50  0001 C CNN
+F 3 "" H 2000 3850 50  0001 C CNN
+	1    2000 3850
+	0    1    -1   0   
+$EndComp
+NoConn ~ 2000 3950
+$Comp
+L Connector:Conn_01x04_Female J1
+U 1 1 61292441
+P 1800 3850
+F 0 "J1" H 1692 3425 50  0000 C CNN
+F 1 "Conn_01x04_Female" H 1692 3516 50  0000 C CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A" H 1800 3850 50  0001 C CNN
+F 3 "~" H 1800 3850 50  0001 C CNN
+	1    1800 3850
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:VDD #PWR0103
+U 1 1 612CE579
+P 10000 3500
+F 0 "#PWR0103" H 10000 3350 50  0001 C CNN
+F 1 "VDD" V 10017 3628 50  0000 L CNN
+F 2 "" H 10000 3500 50  0001 C CNN
+F 3 "" H 10000 3500 50  0001 C CNN
+	1    10000 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GNDA #PWR0104
+U 1 1 613C36BF
+P 10000 3400
+F 0 "#PWR0104" H 10000 3150 50  0001 C CNN
+F 1 "GNDA" H 10000 3250 50  0000 C CNN
+F 2 "" H 10000 3400 50  0001 C CNN
+F 3 "" H 10000 3400 50  0001 C CNN
+	1    10000 3400
+	0    -1   -1   0   
+$EndComp
+$EndSCHEMATC
